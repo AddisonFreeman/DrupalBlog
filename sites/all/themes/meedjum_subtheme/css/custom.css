@@ -1,0 +1,39 @@
+  .block-title {
+    color: white;
+    position: absolute;
+    left:-3px;
+    top:60px
+  }
+  
+  li.blog {
+    position: absolute;
+    top:50px;
+  }
+   
+  li.about {
+    position: absolute;
+    top: 75px;
+  }
+  .container {
+    padding-bottom: 30px;
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+  }
+  
+  .comment_forbidden.last {
+    display: none;
+  }
+
+  .region-header {
+    top: 0px;
+    width: 100%;
+  }
+  .block-title {
+    position: static;
+    color: #000;
+    padding-left: 35px;
+  }

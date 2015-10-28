@@ -1,0 +1,9 @@
+name = Meedjum_SubTheme
+description = Meedjum SubTheme
+base theme = meedjum
+core = "7.x"
+
+stylesheets[all][] = css/custom.css
+scripts[] = header_classchange_scroll.js
+settings[clear_registry] = 0
+
